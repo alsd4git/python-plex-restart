@@ -1,0 +1,4 @@
+flask
+flask-httpauth
+psutil
+python-decouple
