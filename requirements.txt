@@ -1,4 +1,10 @@
-flask
-flask-httpauth
-psutil
-python-decouple
+click==8.1.3
+colorama==0.4.6
+Flask==2.2.2
+Flask-HTTPAuth==4.7.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+psutil==5.9.4
+python-decouple==3.7
+Werkzeug==2.2.2
