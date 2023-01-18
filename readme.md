@@ -7,6 +7,12 @@ This is a python server using flask and basic auth to restart plex on a local ma
 - Python 3.x
 - pip
 
+requirements.txt generated with: (inside myEnv)
+
+```python
+pip freeze > requirements.txt
+```
+
 ## Installation
 
 1. Clone the project and navigate to the directory in your terminal.
